@@ -31,7 +31,7 @@
 * Cross platform
   - Windows, macOS and Linux ready.
   
- ## How To Use
+
  
 ## How To Use
 
