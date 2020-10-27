@@ -10,7 +10,7 @@ cffi==1.11.5
 chardet==3.0.4
 cloudpickle==0.6.1
 colorama==0.4.1
-cryptography==2.3.1
+cryptography==3.2
 cx-Freeze==5.1.1
 cycler==0.10.0
 decorator==4.3.0
