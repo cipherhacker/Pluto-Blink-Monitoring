@@ -68,7 +68,7 @@ pyreadline==2.1
 PySocks==1.6.8
 python-dateutil==2.7.5
 pytz==2018.9
-pywin32==223
+pywin32==301
 PyYAML==3.13
 pyzmq==17.1.2
 QtAwesome==0.5.5
